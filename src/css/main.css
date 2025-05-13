@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "B_Traffic";
+  src: url("../assets/fonts/B_Traffic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "BYekan";
+  src: url("../assets/fonts/BYekan.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Aleo";
+  src: url("../assets/fonts/Aleo-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
